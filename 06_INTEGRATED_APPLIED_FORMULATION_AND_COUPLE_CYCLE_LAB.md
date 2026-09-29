@@ -3,11 +3,11 @@ CORPUS_ID: "06"
 TITLE: "Integrated Applied Formulation and Couple Cycle Lab"
 CANONICAL_FILENAME: "06_INTEGRATED_APPLIED_FORMULATION_AND_COUPLE_CYCLE_LAB.md"
 CORPUS: "Self, Relationship and Couple Therapy Research Corpus"
-VERSION: "1.0"
+VERSION: "2.0"
 STATUS: "CANONICAL"
 DOCUMENT_ROLE: "Authoritative applied formulation engine, episode-analysis protocol, couple-cycle laboratory, hypothesis-testing framework, and practical reasoning guide"
 GOVERNING_FILE: "00_CORPUS_CONSTITUTION_EVIDENCE_HIERARCHY_AND_SOURCE_ROUTER.md"
-CONTROLLING_FILES: "00_CORPUS_CONSTITUTION_EVIDENCE_HIERARCHY_AND_SOURCE_ROUTER.md; 01_SELF_AGENCY_ATTACHMENT_MENTALIZATION_AND_EMOTION.md; 02_RELATIONAL_PATTERNS_COUPLE_SYSTEMS_INTIMACY_AND_POWER.md; 03_COUPLE_THERAPY_MODELS_MECHANISMS_AND_EVIDENCE.md; 04_RUPTURE_BETRAYAL_REPAIR_BOUNDARIES_AND_ENDINGS.md; 05_SELF_ANALYSIS_REFLECTIVE_METHODS_DREAMS_AND_FORMULATION.md"
+CONTROLLING_FILES: "00_CORPUS_CONSTITUTION_EVIDENCE_HIERARCHY_AND_SOURCE_ROUTER.md; 01_SELF_AGENCY_ATTACHMENT_MENTALIZATION_AND_EMOTION.md; 02_RELATIONAL_PATTERNS_COUPLE_SYSTEMS_INTIMACY_AND_POWER.md; 03_COUPLE_THERAPY_MODELS_MECHANISMS_AND_EVIDENCE.md; 04_RUPTURE_BETRAYAL_REPAIR_BOUNDARIES_AND_ENDINGS.md; 05_SELF_ANALYSIS_REFLECTIVE_METHODS_DREAMS_AND_FORMULATION.md; 07_VALUES_AGENCY_CHOICE_MEANING_AND_RELATIONAL_ETHICS.md; 08_FAMILY_SYSTEMS_INTERGENERATIONAL_PATTERNS_AND_DIFFERENTIATION.md"
 APPLICATION_AUTHORITY: "Authoritative for full cross-corpus integrated formulation and applied response structure"
 EVIDENCE_CURRENCY: "Claims reflect the supplied Project source base; this corpus is not a continuously updated systematic review"
 DIAGNOSTIC_STATUS: "Non-diagnostic"
@@ -31,9 +31,11 @@ DEEP_REFERENCE_ROUTES: "Jungian Research Corpus; Lacanian Research Corpus"
 `02_RELATIONAL_PATTERNS_COUPLE_SYSTEMS_INTIMACY_AND_POWER.md`  
 `03_COUPLE_THERAPY_MODELS_MECHANISMS_AND_EVIDENCE.md`  
 `04_RUPTURE_BETRAYAL_REPAIR_BOUNDARIES_AND_ENDINGS.md`  
-`05_SELF_ANALYSIS_REFLECTIVE_METHODS_DREAMS_AND_FORMULATION.md`
+`05_SELF_ANALYSIS_REFLECTIVE_METHODS_DREAMS_AND_FORMULATION.md`  
+`07_VALUES_AGENCY_CHOICE_MEANING_AND_RELATIONAL_ETHICS.md`  
+`08_FAMILY_SYSTEMS_INTERGENERATIONAL_PATTERNS_AND_DIFFERENTIATION.md`
 
-**Function:** This file does not restate Files 01-05. It operationalises them. Where Files 01-05 contain local applied templates, this file governs the full cross-corpus integrated formulation and final response structure.
+**Function:** This file does not restate Files 01-05, 07 or 08. It operationalises them. Where those files contain local applied templates, this file governs the full cross-corpus integrated formulation and final response structure.
 
 Its central question is:
 
@@ -84,22 +86,27 @@ It can use:
 - emotion-focused formulations;
 - behavioural formulations;
 - systemic formulations;
+- multigenerational family-systems formulations;
 - relational psychoanalysis;
 - object relations;
+- Acceptance and Commitment Therapy values and committed-action formulations;
+- existential choice and meaning formulations;
 - Jungian concepts;
 - Lacanian concepts.
 
 It must not treat these as interchangeable.
 
-The laboratory follows seven priorities:
+The laboratory follows nine priorities:
 
 1. **Observation before interpretation.**
 2. **The simplest adequate explanation before a more elaborate one.**
 3. **Multiple hypotheses where the evidence is ambiguous.**
 4. **The other person’s mind remains partly opaque.**
 5. **A reciprocal cycle does not imply equal responsibility.**
-6. **Interpretation should eventually lead toward observation, testing, boundary clarification, repair, or deliberate action.**
-7. **The laboratory does not decide whether a relationship should continue.**
+6. **Intergenerational interpretation is optional and requires actual family evidence.**
+7. **When understanding is sufficient, return to values, agency, choice, and committed action.**
+8. **Interpretation should eventually lead toward observation, testing, boundary clarification, repair, or deliberate action.**
+9. **The laboratory does not decide whether a relationship should continue.**
 
 ---
 
@@ -121,7 +128,7 @@ These are not alternative theories. They are different locations at which eviden
 | **PARTNER** | What do I actually know about the other person? | observable behaviour, direct statements, reported intentions, known circumstances |
 | **RELATIONSHIP** | What happens between us repeatedly? | sequences, bids, responses, escalation, withdrawal, reciprocity, trust, repair, power |
 | **SELF-IN-RELATIONSHIP** | What happens to my functioning in this relationship? | agency, mentalization, self-respect, regulation, boundaries, autonomy, openness, flexibility |
-| **CONTEXT** | What conditions surround the episode? | work, sleep, money, illness, family, children, culture, logistics, time pressure, social networks, major stress |
+| **CONTEXT** | What conditions surround the episode? | work, sleep, money, illness, family of origin, extended family, children, culture, logistics, time pressure, social networks, major stress |
 
 The same episode can look different from each layer.
 
@@ -172,10 +179,16 @@ BROAD MECHANISMS
 OPTIONAL DEPTH LENS
     |
     v
+OPTIONAL FAMILY / INTERGENERATIONAL LENS
+    |
+    v
 UNCERTAINTY REGISTER
     |
     v
 DISCRIMINATING EVIDENCE
+    |
+    v
+VALUES / AGENCY / CHOICE IF MATERIAL
     |
     v
 LOW-RISK ACTION OR TEST
@@ -3830,6 +3843,88 @@ These domains interact but are not identical.
 
 ---
 
+
+## 79A. GEMINI RESPONSE MODE: VALUES / EXISTENTIAL DECISION CLARIFICATION
+
+### Use when
+
+The factual and psychological formulation is reasonably clear, but the user remains uncertain about what to choose, accept, renegotiate, refuse, or enact.
+
+### Output structure
+
+```markdown
+### Bottom line
+
+### What is already sufficiently understood
+
+### The actual decision
+
+### What is controllable, influenceable, and unknowable
+
+### Values implicated
+
+### Feelings, urges, goals, and social rules that are not the same as values
+
+### Agreements and obligations affected
+
+### Serious options and trade-offs
+
+### Irreducible uncertainty
+
+### Lowest-risk values-consistent action or experiment
+
+### What evidence would justify revisiting the decision
+```
+
+Use File 07 for the detailed distinctions. Do not produce a stay/leave verdict.
+
+---
+
+## 79B. GEMINI RESPONSE MODE: FAMILY-OF-ORIGIN / INTERGENERATIONAL MAP
+
+### Use when
+
+Family-of-origin, extended-family, caregiving, children, triangles, cutoff, or repeated multigenerational patterns are materially part of the problem.
+
+### Output structure
+
+```markdown
+### Bottom line
+
+### Present-day problem
+
+### Current couple or relationship pattern
+
+### Family facts
+
+### What genuinely repeats across generations
+
+### What does not repeat
+
+### Bowen lens
+- differentiation
+- chronic anxiety
+- triangles
+- cutoff
+- overfunctioning / underfunctioning
+
+### Competing explanations
+
+### Culture and material context
+
+### Responsibility and safety
+
+### What remains unknown
+
+### One low-risk differentiation or detriangling experiment
+
+### What to observe next
+```
+
+Use File 08 for the detailed distinctions. Do not reconstruct undocumented childhood facts.
+
+---
+
 ## 80. Analysis of relationship uncertainty
 
 Uncertainty can arise from several sources.
@@ -4321,6 +4416,9 @@ When a treatment-oriented question arises, route by problem and mechanism.
 | cognition, attribution, communication, behaviour | Cognitive-Behavioral Couple Therapy |
 | polarisation, acceptance, behavioural contingency | Integrative Behavioral Couple Therapy |
 | recursive interaction and context | systemic approaches |
+| family-of-origin, differentiation, triangles, cutoff, multigenerational process | Bowen family systems, routed through File 08 |
+| values, psychological flexibility, acceptance, committed action | Acceptance and Commitment Therapy, routed through File 07; not itself a couple-therapy model |
+| freedom, responsibility, existential isolation, meaning and consequential choice | existential formulation, routed through File 07; not itself a couple-therapy model |
 | observable interaction, trust, repair, arousal | Gottman-oriented work |
 | subjectivity, recognition, self-states | relational psychoanalytic approaches |
 | shared unconscious organisation and projective systems | Tavistock/object-relations approaches |
@@ -4463,13 +4561,29 @@ A → B → A → B
 ### Lacanian
 -
 
+### 15A. Optional family / intergenerational formulation
+Use only when family evidence is material.
+-
+
 ### 16. Unknowns
 -
 
 ### 17. What would update the formulation
 -
 
-### 18. Action layer
+### 18. Values / agency / choice layer
+Use when a genuine decision or values conflict remains after formulation.
+
+Values implicated:
+-
+
+Trade-offs:
+-
+
+Irreducible uncertainty:
+-
+
+### 19. Action layer
 
 ### I can control
 -
@@ -4486,13 +4600,13 @@ A → B → A → B
 ### I cannot control
 -
 
-### 19. Possible low-risk test
+### 20. Possible low-risk test
 -
 
-### 20. Follow-up
+### 21. Follow-up
 -
 
-### 21. Confidence summary
+### 22. Confidence summary
 **HIGH CONFIDENCE:**  
 **MODERATE:**  
 **LOW:**  
@@ -4728,7 +4842,7 @@ Resignation means:
 
 > “I have no meaningful agency and must tolerate whatever occurs.”
 
-Do not confuse the two.
+Do not confuse the two. File 07 provides the detailed Acceptance and Commitment Therapy and existential controls.
 
 Acceptance can coexist with:
 
@@ -4736,7 +4850,10 @@ Acceptance can coexist with:
 - boundaries;
 - negotiation;
 - refusal;
-- separation.
+- separation;
+- values-consistent committed action.
+
+Acceptance concerns willingness to contact internal and external reality. It is not approval of another person's conduct and does not require relationship preservation.
 
 ---
 
@@ -4763,7 +4880,7 @@ work on clarity, trade-offs,
 acceptance and decision
 ```
 
-Do not promise that relational insight can dissolve every conflict of values.
+Do not promise that relational insight can dissolve every conflict of values. When mutual understanding is already adequate, route the remaining task to File 07: clarify values, agreements, trade-offs, reversibility, irreducible uncertainty, and the next values-consistent action without giving a verdict.
 
 ---
 
