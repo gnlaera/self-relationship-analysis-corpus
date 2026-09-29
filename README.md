@@ -2,7 +2,7 @@
 
 Version 2.0
 
-A compact, theory-plural research corpus for structured self-reflection, relationship formulation, couple-process analysis, therapy-model comparison, rupture and repair, disciplined use of dreams and depth psychology, values-based decision clarification, and intergenerational family-systems analysis.
+A compact, theory-plural research corpus for structured self-reflection, relationship formulation, couple-process analysis, therapy-model comparison, rupture and repair, disciplined use of dreams and depth psychology, values-based decision clarification, intergenerational family-systems analysis, and clinically grounded comparison of major couple-therapy traditions.
 
 The core question is:
 
@@ -10,7 +10,7 @@ The core question is:
 
 ## Repository contents
 
-The repository contains **9 canonical master files** plus support and deployment files.
+The repository contains **10 canonical master files** plus support and deployment files.
 
 ### Canonical masters
 
@@ -24,7 +24,7 @@ The repository contains **9 canonical master files** plus support and deployment
    Dyadic patterns, relationship science, trust, responsiveness, intimacy, sexuality, ordinary relationship practices, context, and power.
 
 4. [`03_COUPLE_THERAPY_MODELS_MECHANISMS_AND_EVIDENCE.md`](03_COUPLE_THERAPY_MODELS_MECHANISMS_AND_EVIDENCE.md)  
-   Comparative map of major couple-therapy models, proposed mechanisms, procedures, treatment evidence, overlap, and limits.
+   Comparative synthesis of major couple-therapy models, proposed mechanisms, procedures, treatment evidence, overlap, and limits.
 
 5. [`04_RUPTURE_BETRAYAL_REPAIR_BOUNDARIES_AND_ENDINGS.md`](04_RUPTURE_BETRAYAL_REPAIR_BOUNDARIES_AND_ENDINGS.md)  
    Rupture, attachment injury, betrayal, trust, accountability, forgiveness, repair, safety, boundaries, incompatibility, separation, and endings.
@@ -40,6 +40,12 @@ The repository contains **9 canonical master files** plus support and deployment
 
 9. [`08_FAMILY_SYSTEMS_INTERGENERATIONAL_PATTERNS_AND_DIFFERENTIATION.md`](08_FAMILY_SYSTEMS_INTERGENERATIONAL_PATTERNS_AND_DIFFERENTIATION.md)  
    Family-of-origin mapping, differentiation, chronic anxiety, triangles, emotional cutoff, multigenerational patterns, family roles, culture, and intergenerational formulation.
+
+10. [`09_CLINICAL_HANDBOOK_OF_COUPLE_THERAPY_MODELS_EVIDENCE_AND_APPLICATIONS.md`](09_CLINICAL_HANDBOOK_OF_COUPLE_THERAPY_MODELS_EVIDENCE_AND_APPLICATIONS.md)  
+    Comprehensive source-specific reconstruction of the *Clinical Handbook of Couple Therapy*, fifth edition. Covers the major therapy models, Gurman's comparative framework, theories of relationship health and dysfunction, assessment, therapist stance, mechanisms of change, treatment evidence, clinical applications, contraindications, cross-model convergence, and important theoretical differences.
+
+    GitHub Pages:  
+    https://gnlaera.github.io/self-relationship-analysis-corpus/09_CLINICAL_HANDBOOK_OF_COUPLE_THERAPY_MODELS_EVIDENCE_AND_APPLICATIONS
 
 ### Support and deployment files
 
@@ -77,6 +83,8 @@ Version 2.0 adds two downstream lenses:
 
 > **INTERGENERATIONAL CONTEXT, when evidence warrants it -> VALUES / AGENCY / CHOICE, when understanding is sufficient -> ACTION / TEST -> FOLLOW-UP**
 
+File 09 adds a complementary **clinical reference layer**. It does not replace the corpus's integrated operating model. It provides a deeper reconstruction of how major couple-therapy traditions conceptualise the same clinical territory.
+
 ## Important corpus rules
 
 - Do not diagnose an absent partner.
@@ -87,6 +95,9 @@ Version 2.0 adds two downstream lenses:
 - Do not assume that preserving the relationship is the correct outcome.
 - Do not use dreams as evidence of hidden external facts.
 - Keep Jungian, Lacanian, relational psychoanalytic, attachment, systemic, behavioural, emotion-focused, Acceptance and Commitment Therapy, existential, and Bowen family-systems concepts distinct.
+- Do not collapse different couple-therapy models merely because they describe similar observable patterns.
+- Treatment effectiveness does not by itself prove that a model's proposed mechanism of change is correct.
+- Similar interventions can arise from materially different theories.
 - Values are not the same as feelings, goals, preferences, or social rules.
 - Acceptance is not resignation or approval of harmful conduct.
 - Differentiation is not independence, emotional distance, attachment avoidance, or Jungian individuation.
@@ -97,7 +108,9 @@ Version 2.0 adds two downstream lenses:
 
 Files 01-05, 07, and 08 contain domain knowledge and local tools.
 
-For a **full integrated formulation**, use File 06 as the final operating standard.
+File 09 is a **deep clinical reference and comparative source reconstruction**. It should be used when a question requires more detail about a particular couple-therapy model, its historical development, assumptions, assessment framework, interventions, evidence base, contraindications, or applications to specific clinical problems.
+
+For a **full integrated formulation**, File 06 remains the final operating standard.
 
 The intended sequence is:
 
@@ -105,10 +118,55 @@ The intended sequence is:
 2. map the present dyadic process;
 3. assess broad relationship, attachment, regulation, mentalization, identity, and power mechanisms;
 4. generate serious alternatives;
-5. use depth psychology only when it adds explanatory value;
-6. use File 08 only when family or intergenerational evidence is materially relevant;
-7. use File 07 when the remaining task is values, choice, meaning, boundary, acceptance, or committed action;
-8. return to observable action and follow-up.
+5. use File 09 when deeper model-specific clinical comparison or intervention logic is needed;
+6. use depth psychology only when it adds explanatory value;
+7. use File 08 only when family or intergenerational evidence is materially relevant;
+8. use File 07 when the remaining task is values, choice, meaning, boundary, acceptance, or committed action;
+9. return to observable action and follow-up.
+
+## File 03 and File 09 serve different functions
+
+The distinction is intentional.
+
+### File 03
+
+`03_COUPLE_THERAPY_MODELS_MECHANISMS_AND_EVIDENCE.md`
+
+File 03 is the **corpus-level comparative synthesis**.
+
+Use it when the question is:
+
+- Which therapy models are relevant to this problem?
+- How do the major models differ?
+- What mechanisms do they propose?
+- What does the treatment-evidence landscape broadly show?
+- Where do models overlap?
+- What should not be collapsed across theoretical traditions?
+
+It is designed for fast cross-model reasoning.
+
+### File 09
+
+`09_CLINICAL_HANDBOOK_OF_COUPLE_THERAPY_MODELS_EVIDENCE_AND_APPLICATIONS.md`
+
+File 09 is the **deep source-specific clinical reference**.
+
+Use it when the question requires:
+
+- detailed reconstruction of a particular therapy model;
+- the historical development of couple therapy;
+- Gurman's common framework for comparing therapies;
+- model-specific definitions of healthy and dysfunctional relationships;
+- detailed therapist stance, assessment, goal-setting, sequencing, and technique;
+- the Handbook's treatment-evidence discussion;
+- clinical applications to violence, affairs, divorce, stepfamilies, sexuality, trauma, depression, alcohol problems, personality disorder, medical illness, or other specialist problems;
+- comparison of how several established clinical traditions would formulate the same couple pattern.
+
+File 03 should normally orient the inquiry.
+
+File 09 should deepen it.
+
+Neither replaces File 06 as the final applied formulation standard.
 
 ## Recommended reading order
 
@@ -117,28 +175,50 @@ For a human reader:
 1. File 00
 2. File 06
 3. Files 01-05, 07, and 08 as needed
-4. Source Bibliography and Router
+4. File 09 when deeper couple-therapy theory or clinical application is needed
+5. Source Bibliography and Router
+
+For someone primarily studying couple therapy:
+
+1. File 00
+2. File 03
+3. File 09
+4. File 04
+5. File 02
+6. File 01
+7. File 06
+8. Files 07 and 08 as relevant
 
 For corpus auditing:
 
 1. File 00
 2. Files 01-05
 3. Files 07-08
-4. File 06
-5. Source Bibliography and Router
-6. Gemini Notebook prompt
+4. File 09
+5. File 06
+6. Source Bibliography and Router
+7. Gemini Notebook prompt
 
 ## Using this in Gemini Notebook
 
 Recommended setup:
 
-1. Upload the **9 canonical master files** as sources.
+1. Upload the **10 canonical master files** as sources.
 2. Upload `SOURCE_BIBLIOGRAPHY_AND_ROUTER.md` if provenance and routing are useful inside the Notebook.
 3. Keep the underlying copyrighted books and articles outside the active Notebook unless there is a specific reason and lawful access to include them.
 4. Open `GEMINI_NOTEBOOK_FIRST_CHAT_PROMPT.md`.
 5. Copy its contents into the Notebook's first chat message.
 
-The first-chat prompt tells the Notebook to treat File 00 as the constitution and File 06 as the authoritative application layer, with File 07 and File 08 invoked only when their lenses materially add value.
+The first-chat prompt should treat:
+
+- **File 00** as the corpus constitution;
+- **File 06** as the authoritative integrated application layer;
+- **File 03** as the concise comparative therapy-model map;
+- **File 09** as the deep source-specific couple-therapy reference;
+- **File 08** as a conditional intergenerational and family-systems lens;
+- **File 07** as a conditional values, agency, meaning, and decision lens.
+
+File 09 should deepen model-specific reasoning when required, but it should not silently override the evidence hierarchy, safety rules, framework boundaries, partner-opacity rules, or outcome neutrality established elsewhere in the corpus.
 
 ## Keeping Jung and Lacan separate
 
@@ -151,7 +231,7 @@ Use the specialist corpuses when a question is mainly about:
 - Jung's own theory, complexes, shadow, projection, individuation, active imagination, or detailed dream interpretation;
 - Lacanian need/demand/desire, fantasy, jouissance, transference, love, partner-as-symptom, or clinical structure.
 
-Use this corpus when the question is mainly **applied self-in-relationship formulation**.
+Use this corpus when the question is mainly **applied self-in-relationship formulation, couple-process analysis, clinical couple-therapy comparison, or relationship decision clarification**.
 
 ## Evidence currency
 
@@ -164,6 +244,8 @@ Some foundation sources are older by design. The source base includes, among oth
 - *The Cambridge Handbook of Personal Relationships*, Project copy from 2006;
 - Hayes, Strosahl, and Wilson's *Acceptance and Commitment Therapy*, second edition from 2012;
 - Yalom's *Existential Psychotherapy* from 1980.
+
+File 09 deliberately reconstructs the *Clinical Handbook of Couple Therapy* in its own historical and evidentiary context. Statements about evidence in that file should therefore be understood primarily as reconstruction of the Handbook's evidence position, not as an automatically current assessment of the literature.
 
 The source router records evidence roles and limitations explicitly.
 
@@ -183,33 +265,6 @@ index.html
 06_INTEGRATED_APPLIED_FORMULATION_AND_COUPLE_CYCLE_LAB.md
 07_VALUES_AGENCY_CHOICE_MEANING_AND_RELATIONAL_ETHICS.md
 08_FAMILY_SYSTEMS_INTERGENERATIONAL_PATTERNS_AND_DIFFERENTIATION.md
+09_CLINICAL_HANDBOOK_OF_COUPLE_THERAPY_MODELS_EVIDENCE_AND_APPLICATIONS.md
 SOURCE_BIBLIOGRAPHY_AND_ROUTER.md
 GEMINI_NOTEBOOK_FIRST_CHAT_PROMPT.md
-```
-
-No source PDFs or EPUBs are required in the repository.
-
-## Version 2.0 changes
-
-Version 2.0 retains the seven-file Version 1.0 architecture and adds two targeted lenses rather than creating additional corpuses.
-
-The main changes are:
-
-- added File 07 for values, agency, choice, meaning, relational ethics, Acceptance and Commitment Therapy, and existential decision work;
-- added File 08 for Bowen family systems, family-of-origin analysis, differentiation, triangles, cutoff, and multigenerational patterns;
-- added Hayes, Strosahl, and Wilson plus Yalom to the source router;
-- kept File 06 as the single authoritative applied layer;
-- extended File 00 and File 06 surgically rather than rewriting Files 01-05;
-- added explicit non-collapse rules for values, acceptance, existential responsibility, differentiation, cutoff, and intergenerational inference;
-- added Gemini response modes for values/existential decision clarification and family-of-origin/intergenerational mapping;
-- preserved relationship-outcome neutrality, partner opacity, safety priority, and evidence discipline.
-
-## Scope and limits
-
-This is a research and formulation corpus.
-
-It is not a remote diagnostic system. It is not a substitute for professional assessment in high-risk situations. It is not designed to determine another person's hidden motives, prove external events from dreams, reconstruct undocumented childhood events, or decide whether a relationship should continue.
-
-Its purpose is:
-
-> **Produce the most defensible useful formulation from the evidence actually available, keep serious alternatives alive, make family history relevant only when it adds explanatory value, and move from understanding toward safer and more deliberate values-consistent action.**
