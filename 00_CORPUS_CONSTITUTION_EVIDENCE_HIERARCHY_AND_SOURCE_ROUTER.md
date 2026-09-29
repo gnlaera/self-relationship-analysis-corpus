@@ -3,7 +3,7 @@ CORPUS_ID: "00"
 TITLE: "Corpus Constitution, Evidence Hierarchy, and Source Router"
 CANONICAL_FILENAME: "00_CORPUS_CONSTITUTION_EVIDENCE_HIERARCHY_AND_SOURCE_ROUTER.md"
 CORPUS: "Self, Relationship and Couple Therapy Research Corpus"
-VERSION: "1.0"
+VERSION: "2.0"
 STATUS: "CANONICAL"
 DOCUMENT_ROLE: "Governing constitution, evidence model, terminology control, source router, and operating standard for all corpus files"
 GOVERNING_FILE: "SELF"
@@ -24,7 +24,7 @@ APPLICATION_AUTHORITY: "File 06 is authoritative for full integrated applied for
 
 **Status:** Canonical control file.
 
-**Scope:** This corpus supports structured self-reflection, relationship formulation, couple-process analysis, comparison of therapeutic models, rupture and repair analysis, reflective methods, and theory-aware interpretation.
+**Scope:** This corpus supports structured self-reflection, relationship formulation, couple-process analysis, comparison of therapeutic models, rupture and repair analysis, reflective methods, values and decision clarification, intergenerational family-systems analysis, and theory-aware interpretation.
 
 It is not a diagnostic instrument, a substitute for professional assessment in high-risk situations, or a system for deciding whether a relationship should continue.
 
@@ -676,6 +676,34 @@ A construct may resemble another functionally without being theoretically identi
 - reconciliation ≠ relationship preservation.
 - repair ≠ resolution of every substantive disagreement.
 - mutual contribution ≠ equal responsibility.
+
+## Values and Acceptance and Commitment Therapy
+
+- value ≠ feeling.
+- value ≠ goal.
+- value ≠ social rule.
+- acceptance ≠ approval.
+- acceptance ≠ resignation.
+- willingness ≠ passive tolerance of harmful conduct.
+- committed action ≠ rigid persistence regardless of evidence.
+
+## Existential responsibility
+
+- responsibility ≠ omnipotence.
+- responsibility ≠ blame for another person's conduct.
+- freedom ≠ absence of material or relational constraint.
+- choosing under uncertainty ≠ knowing that an outcome will be good.
+
+## Family systems and differentiation
+
+- differentiation ≠ independence.
+- differentiation ≠ emotional distance.
+- differentiation ≠ attachment avoidance.
+- differentiation ≠ Jungian individuation.
+- emotional cutoff ≠ healthy boundary by definition.
+- family projection process ≠ Jungian projection.
+- multigenerational repetition ≠ proof of one causal mechanism.
+- systemic influence ≠ equal responsibility.
 
 ---
 
@@ -1415,6 +1443,14 @@ Optional:
 
 Keep them explicitly theory-specific.
 
+### I.1. Is a family-systems or intergenerational lens materially relevant?
+
+Use File 08 only when the case contains actual family-of-origin, extended-family, triangle, cutoff, caregiving, child, or repeated multigenerational evidence. Do not invent family history from present behaviour.
+
+### I.2. Does the question now require values, choice or meaning clarification?
+
+Use File 07 after the factual and psychological formulation is sufficiently clear when the remaining problem is what to choose, accept, renegotiate, refuse, or enact. Values do not replace evidence or safety.
+
 ### J. What remains unknown?
 
 Maintain an uncertainty register.
@@ -1440,7 +1476,11 @@ Possible targets:
 - boundary;
 - expectation;
 - practical arrangement;
+- family-system participation;
+- values-consistent committed action;
 - therapy target.
+
+When the issue is a genuine decision, distinguish what is controllable, influenceable, and unknowable. Do not require emotional certainty before action.
 
 ### M. What happened after the change attempt?
 
@@ -1545,9 +1585,36 @@ Use for:
 - aggression;
 - divorce/separation;
 - sexuality;
-- common and model-specific mechanisms.
+- common and model-specific mechanisms;
+- Bowen family systems couple coaching;
+- differentiation, triangles, cutoff and multigenerational family process.
 
-Primary destination: Files 03 and 04.
+Primary destination: Files 03, 04 and 08.
+
+### Hayes, Strosahl & Wilson
+Use for:
+
+- Acceptance and Commitment Therapy;
+- psychological flexibility;
+- acceptance;
+- cognitive defusion;
+- present-moment awareness;
+- self-as-context;
+- values;
+- committed action.
+
+Primary destination: File 07, with selective application through File 06.
+
+### Yalom
+Use for:
+
+- existential freedom and responsibility;
+- willing and choice;
+- existential isolation;
+- meaninglessness and meaning;
+- the limits of certainty in consequential decisions.
+
+Primary destination: File 07.
 
 ---
 
@@ -1565,7 +1632,7 @@ Use for:
 - sexuality;
 - couple functioning.
 
-Primary destination: Files 01, 02 and 06.
+Primary destination: Files 01, 02, 06 and 07.
 
 ### Fonagy, Gergely, Jurist & Target
 Use for:
@@ -1589,7 +1656,7 @@ Use for:
 - mentalization;
 - agency in psychotherapy and relationships.
 
-Primary destination: Files 01, 02 and 06.
+Primary destination: Files 01, 02, 06 and 07.
 
 ---
 
@@ -1795,9 +1862,9 @@ They should not determine the structure of the corpus.
 
 ---
 
-## 43. Locked corpus architecture
+## 43. Canonical corpus architecture
 
-The corpus consists of seven master files.
+The corpus consists of nine master files.
 
 ### 00_CORPUS_CONSTITUTION_EVIDENCE_HIERARCHY_AND_SOURCE_ROUTER.md
 
@@ -1827,7 +1894,15 @@ Self-observation, journaling, formulation, dreams, active imagination, longitudi
 
 Operational analysis engine, case protocols, multi-lens formulation, competing hypotheses, practical tests and worked examples.
 
-**Application authority:** File 06 is the authoritative applied-response protocol. Files 01-05 supply domain knowledge and local tools; where local templates differ in scope or detail, File 06 governs full cross-corpus integrated output.
+### 07_VALUES_AGENCY_CHOICE_MEANING_AND_RELATIONAL_ETHICS.md
+
+Values clarification, psychological flexibility, existential choice, meaning, relational ethics, decision trade-offs and committed action.
+
+### 08_FAMILY_SYSTEMS_INTERGENERATIONAL_PATTERNS_AND_DIFFERENTIATION.md
+
+Family-of-origin mapping, differentiation, triangles, emotional cutoff, multigenerational patterns, family roles and intergenerational formulation.
+
+**Application authority:** File 06 is the authoritative applied-response protocol. Files 01-05, 07 and 08 supply domain knowledge and local tools; where local templates differ in scope or detail, File 06 governs full cross-corpus integrated output.
 
 ---
 
@@ -1852,15 +1927,18 @@ When applying the corpus, Gemini should:
 15. prioritise safety where coercion or violence may be present;
 16. treat dreams as reflective material rather than factual evidence;
 17. route deep Jungian and Lacanian questions to their specialist corpuses;
-18. move from interpretation toward practical tests or actions where appropriate;
-19. track patterns longitudinally;
-20. avoid confident predictions about relationship trajectory.
+18. use File 08 only when family-of-origin or intergenerational evidence materially adds to the case;
+19. use File 07 when understanding is sufficient and the remaining task is values, choice, meaning, boundary or committed action;
+20. distinguish acceptance from resignation and differentiation from distance;
+21. move from interpretation toward practical tests or actions where appropriate;
+22. track patterns longitudinally;
+23. avoid confident predictions about relationship trajectory.
 
 ---
 
 ## 45. Final governing principles
 
-The corpus is controlled by the following fifteen rules.
+The corpus is controlled by the following seventeen rules.
 
 1. **Problem first, theory second.**
 2. **Observation first, interpretation later.**
@@ -1876,13 +1954,15 @@ The corpus is controlled by the following fifteen rules.
 12. **Repair is distinct from forgiveness, reconciliation and staying together.**
 13. **The corpus is relationship-outcome neutral.**
 14. **Safety overrides conjoint process work.**
-15. **The Jungian and Lacanian corpuses remain deep-reference destinations, not material to duplicate here.**
+15. **Values and existential choice belong downstream of adequate reality-testing and formulation.**
+16. **Intergenerational explanations require family evidence; resemblance is not causal proof.**
+17. **The Jungian and Lacanian corpuses remain deep-reference destinations, not material to duplicate here.**
 
 ---
 
-## 46. Production rule for all remaining master files
+## 46. Quality-control rule for all master files
 
-Every remaining master file must pass the following tests before being treated as canonical.
+Every master file must pass the following tests before being treated as canonical.
 
 ### Source fidelity
 Does it accurately represent the source?
@@ -1932,4 +2012,4 @@ A good formulation should:
 - generate competing explanations;
 - support safer and more deliberate action.
 
-When interpretation becomes more certain than the evidence permits, the corpus should move back toward observation.
+When interpretation becomes more certain than the evidence permits, the corpus should move back toward observation. When interpretation is sufficiently clear but the person remains stuck, the corpus should move forward toward values, choice, boundaries, committed action, and observation of what happens next.
